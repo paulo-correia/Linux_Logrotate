@@ -10,7 +10,7 @@ Esta ferramenta é muito útil para os SysAdmin e possui recursos flexíveis que
 
 ## Instalação
 
-Toda a instalação é feita como root
+Toda a instalação é feita como **root**
 
 ### Debian
 
